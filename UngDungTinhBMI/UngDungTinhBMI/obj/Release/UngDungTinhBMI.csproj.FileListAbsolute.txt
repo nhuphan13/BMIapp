@@ -1,0 +1,15 @@
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\bin\Release\UngDungTinhBMI.exe.config
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\bin\Release\UngDungTinhBMI.exe
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\bin\Release\UngDungTinhBMI.pdb
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.History.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.Info.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.Login.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.Main.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.PasswordChange.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.Properties.Resources.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.Register.resources
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.csproj.GenerateResource.cache
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.csproj.CoreCompileInputs.cache
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.exe
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.pdb
+E:\laptrinhgiaodien\UngDungTinhBMI\UngDungTinhBMI\UngDungTinhBMI\obj\Release\UngDungTinhBMI.csprojAssemblyReference.cache
